@@ -76,3 +76,25 @@ h1 span {
     font-weight: bold;
     color: #00BFA6;
 }
+
+footer {
+    width: 568px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.line {
+    height: 0px;
+    border: 1px #00BFA6 solid;
+    margin-bottom: 27px;
+}
+
+footer p {
+    font-family: 'JetBrains Mono', sans-serif;
+}
+
+.locker {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
