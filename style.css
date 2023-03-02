@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #2C2B3D;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+    margin: 71px auto 157px;
+    width: 1083px;
+}
+
+header {
+    width: 1083px;
+    display: flex;
+    margin: 0 auto 101px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    display: flex;
+    justify-content: left;
+    list-style: none;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    gap: 64px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'JetBrains Mono', sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
